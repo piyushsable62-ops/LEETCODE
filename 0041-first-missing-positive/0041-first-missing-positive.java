@@ -24,7 +24,7 @@ class Solution {
             }
         }
        }
-       return k;
+       return k++;
 
     }
 }
