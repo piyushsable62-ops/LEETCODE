@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 ## Math
