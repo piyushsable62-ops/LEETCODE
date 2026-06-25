@@ -1,25 +1,25 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-       Arrays.sort(nums);
+        Arrays.sort(nums);
+      
        
       
-       for(int i = 0 ; i<nums.length;i++){
-        int count = 0;
-        int j = i+1;
-
+       for(int i = 0 ; i<nums.length-1;i++){
         
-        if(j<nums.length){
-            if(nums[i] == nums[j]){
+      
+
+      
+            if(nums[i] == nums[i+1]){
                 return true;
          
             
         
-        }j++;
+        }
         }
       
         
         
-       }
+       
        return false;
         
     }
