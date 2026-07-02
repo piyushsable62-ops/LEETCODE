@@ -22,3 +22,18 @@ class Solution {
         
     }
 }
+// class Solution {
+//     public double average(int[] salary) {
+//         int sum = 0;
+//         int max = Integer.MIN_VALUE;
+//         int min = Integer.MAX_VALUE;
+
+//         for (int s : salary) {
+//             sum += s;
+//             max = Math.max(max, s);
+//             min = Math.min(min, s);
+//         }
+
+//         return (double) (sum - max - min) / (salary.length - 2);
+//     }
+// }
