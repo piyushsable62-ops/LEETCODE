@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
