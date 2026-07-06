@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
