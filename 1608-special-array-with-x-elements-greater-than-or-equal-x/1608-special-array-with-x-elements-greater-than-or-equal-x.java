@@ -2,7 +2,7 @@ class Solution {
     public int specialArray(int[] nums) {
         Arrays.sort(nums);
         int count = 0;
-        for(int k = 0;k<= 100;k++){
+        for(int k = 0;k<= nums.length;k++){
             int x = k;
             int i = 0;
             int j = nums.length-1;
