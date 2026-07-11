@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0709-to-lower-case) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
