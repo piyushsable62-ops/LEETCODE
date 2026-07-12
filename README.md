@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0709-to-lower-case) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Queue
