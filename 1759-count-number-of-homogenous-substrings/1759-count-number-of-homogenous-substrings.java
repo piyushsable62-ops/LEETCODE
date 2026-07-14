@@ -14,7 +14,7 @@ class Solution {
 
             long len = j - i;
 
-            ans = (ans + (len * (len + 1)) / 2) % mod;
+            ans = (ans + (len * (len + 1)) / 2)%mod ;
 
             i = j;
         }
