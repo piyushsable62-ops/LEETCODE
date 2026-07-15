@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
