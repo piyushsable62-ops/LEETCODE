@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
+| [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,4 +237,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
