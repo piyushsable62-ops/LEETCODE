@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.*;
 
 class Solution {
 
@@ -7,34 +7,41 @@ class Solution {
     public int numTilePossibilities(String tiles) {
 
         char[] arr = tiles.toCharArray();
-        Arrays.sort(arr);              // To handle duplicates
-        boolean[] used = new boolean[arr.length];
+        Arrays.sort(arr);
 
-        helper(arr, used);
+        boolean[] used = new boolean[arr.length];
+        ArrayList<Character> list = new ArrayList<>();
+
+        helper(arr, used, list);
 
         return count;
     }
 
-    public void helper(char[] arr, boolean[] used) {
+    public void helper(char[] arr, boolean[] used, ArrayList<Character> list) {
 
         for (int i = 0; i < arr.length; i++) {
 
-            // Tile already used
             if (used[i]) {
                 continue;
             }
 
-            // Skip duplicate tiles
             if (i > 0 && arr[i] == arr[i - 1] && !used[i - 1]) {
                 continue;
             }
 
+            // Choose
             used[i] = true;
+            list.add(arr[i]);
             count++;
 
-            helper(arr, used);
+            System.out.println(list);
 
-            used[i] = false;   // Backtrack
+            // Explore
+            helper(arr, used, list);
+
+            // Backtrack
+            list.remove(list.size() - 1);
+            used[i] = false;
         }
     }
 }
