@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
