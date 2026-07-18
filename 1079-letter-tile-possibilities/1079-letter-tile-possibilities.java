@@ -29,14 +29,13 @@ class Solution {
                 continue;
             }
 
-            // Choose
+         
             used[i] = true;
             list.add(arr[i]);
             count++;
 
             System.out.println(list);
 
-            // Explore
             helper(arr, used, list);
 
             // Backtrack
