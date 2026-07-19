@@ -254,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
