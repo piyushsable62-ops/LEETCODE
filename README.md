@@ -264,10 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
