@@ -5,38 +5,29 @@ class Solution {
             return head;
         }
 
-        ListNode oddDummy = new ListNode(-1);
-        ListNode evenDummy = new ListNode(-1);
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode oddHead = odd;
+        ListNode evenHead = even;
 
-        ListNode oddTail = oddDummy;
-        ListNode evenTail = evenDummy;
+      
+        while (even != null && even.next != null) {
 
-        ListNode curr = head;
-        int pos = 1;
+            odd.next = odd.next.next;
+            odd = odd.next;
 
-        // Create odd and even lists
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = null;
-
-            if (pos % 2 == 1) {
-                oddTail.next = curr;
-                oddTail = curr;
-            } else {
-                evenTail.next = curr;
-                evenTail = curr;
-            }
-
-            curr = next;
-            pos++;
+            even.next = even.next.next;
+            even = even.next;
         }
 
-        // Merge: even -> odd -> even -> odd
-        ListNode odd = oddDummy.next;
-        ListNode even = evenDummy.next;
+        odd.next = null;
 
+       
         ListNode dummy = new ListNode(-1);
         ListNode t = dummy;
+
+        odd = oddHead;
+        even = evenHead;
 
         while (even != null && odd != null) {
 
