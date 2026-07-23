@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Interactive
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
