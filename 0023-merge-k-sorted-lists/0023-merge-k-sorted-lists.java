@@ -3,7 +3,6 @@ class Solution {
 
         ArrayList<Integer> arr = new ArrayList<>();
 
-        // Store all values
         for (int i = 0; i < lists.length; i++) {
             ListNode head = lists[i];
 
@@ -13,10 +12,10 @@ class Solution {
             }
         }
 
-        // Sort the values
+      
         Collections.sort(arr);
 
-        // Create new linked list
+   
         ListNode dummy = new ListNode(-1);
         ListNode t = dummy;
 
