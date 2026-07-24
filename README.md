@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0367-valid-perfect-square) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0061-rotate-list) |
