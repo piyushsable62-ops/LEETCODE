@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Backtracking
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
