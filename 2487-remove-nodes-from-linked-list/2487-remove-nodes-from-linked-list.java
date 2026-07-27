@@ -21,10 +21,7 @@ class Solution {
 
         }
         ans.next = null;
-        return (reverse(dummy.next));
-
-        
-        
+        return (reverse(dummy.next));     
     }
     public ListNode reverse(ListNode head){
         ListNode c = head;
