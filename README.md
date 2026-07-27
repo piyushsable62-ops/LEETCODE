@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
 ## String Matching
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
