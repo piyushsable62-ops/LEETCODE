@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1079-letter-tile-possibilities) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Backtracking
 |  |
