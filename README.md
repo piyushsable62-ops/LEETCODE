@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -333,9 +334,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
