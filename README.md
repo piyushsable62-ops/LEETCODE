@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1813-sentence-similarity-iii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1813-sentence-similarity-iii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
