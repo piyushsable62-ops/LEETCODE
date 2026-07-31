@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0686-repeated-string-match) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
