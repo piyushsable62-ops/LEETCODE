@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1079-letter-tile-possibilities) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
