@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1813-sentence-similarity-iii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1813-sentence-similarity-iii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
