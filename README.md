@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1813-sentence-similarity-iii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1813-sentence-similarity-iii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
