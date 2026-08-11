@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
