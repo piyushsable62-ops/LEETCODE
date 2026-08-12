@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -421,12 +423,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
