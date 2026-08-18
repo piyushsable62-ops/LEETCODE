@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
