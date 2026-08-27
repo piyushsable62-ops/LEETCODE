@@ -14,7 +14,6 @@ class Solution {
         }
          i++;
         }
-        return max;
-        
+        return max; 
     }
 }
