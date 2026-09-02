@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0456-132-pattern) |
+| [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1051-height-checker) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Interactive
 |  |
@@ -529,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
