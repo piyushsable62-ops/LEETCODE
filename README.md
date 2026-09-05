@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
