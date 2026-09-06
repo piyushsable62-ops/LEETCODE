@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3516-find-closest-person](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
