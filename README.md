@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -207,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1079-letter-tile-possibilities) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -237,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Interactive
@@ -545,8 +551,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
