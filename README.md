@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0456-132-pattern) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0456-132-pattern) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [1079-letter-tile-possibilities](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1079-letter-tile-possibilities) |
 | [1122-relative-sort-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1122-relative-sort-array) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0658-find-k-closest-elements) |
