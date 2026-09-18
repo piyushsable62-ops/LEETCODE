@@ -26,7 +26,6 @@ class Solution {
                 }
                 if (parentMap.containsKey(curr)) {
                     TreeNode parent = parentMap.get(curr);
-
                     if (parent != null && !visited.contains(parent)) {
                         visited.add(parent);
                         queue.offer(parent);
@@ -34,45 +33,33 @@ class Solution {
                     }
                 }
             }
-
             if (burnedNewNode) {
                 time++;
             }
         }
-
         return time;
     }
-
-    // Creates parent mapping and finds start node
     private TreeNode buildParentMap(
             TreeNode root,
             HashMap<TreeNode, TreeNode> parentMap,
             int start) {
-
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
-
         TreeNode startNode = null;
-
         while (!queue.isEmpty()) {
-
             TreeNode curr = queue.poll();
-
             if (curr.val == start) {
                 startNode = curr;
             }
-
             if (curr.left != null) {
                 parentMap.put(curr.left, curr);
                 queue.offer(curr.left);
             }
-
             if (curr.right != null) {
                 parentMap.put(curr.right, curr);
                 queue.offer(curr.right);
             }
         }
-
         return startNode;
     }
 }
