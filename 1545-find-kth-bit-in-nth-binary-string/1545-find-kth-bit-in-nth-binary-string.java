@@ -26,7 +26,6 @@ class Solution {
         }
          String ans2 = new String(list);
         ans = ans +"1"+ans2;
-        ans1 = ans2;
         i++;
     } 
     return ans.charAt(k-1);
