@@ -6,7 +6,6 @@ class Solution {
         return '0';
     }
     while(i<=n){
-        String ans1 = ans;
         char[] list = ans.toCharArray();
         for(int j = 0;j<list.length;j++){
         if(list[j] == '0'){
