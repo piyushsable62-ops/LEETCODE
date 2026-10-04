@@ -10,6 +10,7 @@ class Solution {
             return false;
         }
         return isPowerOfFour(n/4);
+      
         
     }
 }
