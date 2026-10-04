@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3516-find-closest-person](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3516-find-closest-person) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
