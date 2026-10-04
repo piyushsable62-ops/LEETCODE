@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0227-basic-calculator-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
