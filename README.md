@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
+| [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 ## Dynamic Programming
 |  |
