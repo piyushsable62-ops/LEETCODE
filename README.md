@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
 | [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0198-house-robber) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Bitmask
 |  |
 | ------- |
