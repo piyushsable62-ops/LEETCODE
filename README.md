@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0456-132-pattern) |
+| [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Bitmask
@@ -634,8 +637,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
