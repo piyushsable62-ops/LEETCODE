@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0686-repeated-string-match) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [1143-longest-common-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
