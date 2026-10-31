@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0113-path-sum-ii) |
@@ -658,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
