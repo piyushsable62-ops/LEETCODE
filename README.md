@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0200-number-of-islands) |
 | [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
