@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0645-set-mismatch) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0542-01-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0841-keys-and-rooms) |
