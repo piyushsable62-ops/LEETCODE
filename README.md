@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1813-sentence-similarity-iii](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1813-sentence-similarity-iii) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
