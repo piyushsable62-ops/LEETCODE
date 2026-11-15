@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Prefix Sum
@@ -695,5 +698,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0841-keys-and-rooms) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/piyushsable62-ops/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
