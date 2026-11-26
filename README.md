@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3360-stone-removal-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushsable62-ops/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/piyushsable62-ops/LEETCODE/tree/master/3360-stone-removal-game) |
 ## String Matching
 |  |
 | ------- |
